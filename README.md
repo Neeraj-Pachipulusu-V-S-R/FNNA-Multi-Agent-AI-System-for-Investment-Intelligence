@@ -221,9 +221,9 @@ The system uses Google Gemini 1.5 Flash by default, which provides:
 - **Advanced reasoning**: Superior financial analysis capabilities
 - **Reliable output**: Consistent response formatting
 
-## 🆚 Comparison with Previous Version
+## 🆚 Comparison with Base Version
 
-| Aspect | Previous (Together AI) | New (Google Gemini) |
+| Aspect | Base - Together AI | New - Google Gemini |
 |--------|----------------------|-------------------|
 | **API Cost** | Paid service | **Free tier available** |
 | **Model Quality** | Llama 3.3 70B | **Gemini 1.5 Flash** |
@@ -328,7 +328,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, issues, or contributions:
 
 - **Issues**: [GitHub Issues](https://github.com/Neeraj-Pachipulusu-V-S-R/FNNA-Multi-Agent-AI-System-for-Investment-Intelligence/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Neeraj-Pachipulusu-V-S-R/FNNA-Multi-Agent-AI-System-for-Investment-Intelligence/discussions)
 - **Email**: [neerajpachipulusuvsr@gmail.com](mailto:neerajpachipulusuvsr@gmail.com)
 
 ---
